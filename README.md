@@ -1,1 +1,1 @@
-👋 Hi, I’m Hinal Patel. I am currently pursuing masters of computer science from Algoma University. I have 3+ years of experience as a Software Engineer where I developed, tested and deployed websites. I’m interested in data analyst role.
+👋 Hi, I’m Hinal Patel. I am currently pursuing masters of computer science from Algoma University. I have 3+ years of experience as a Software Engineer where I developed, tested and deployed websites. I’m interested in data analyst role. I have Youtube channel on which I upload videos regarding PHP, Python and Laravel.
